@@ -16,7 +16,7 @@
         "angularjs"
     ],
     "dependencies": {
-        "clipboard": "^2.0.0",
+        "clipboard": "2.0.0",
         "angular": "^1.2.0"
     },
     "ignore": [
